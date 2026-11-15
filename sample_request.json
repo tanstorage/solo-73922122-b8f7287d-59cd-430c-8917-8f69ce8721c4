@@ -1,0 +1,9 @@
+{
+  "chromosome": "chr1",
+  "max_switches": 1,
+  "sites": [
+    {"position": 1000, "father": "0|1", "mother": "1|0", "child": "0/0"},
+    {"position": 2000, "father": "0|1", "mother": "1|0", "child": "0/1"},
+    {"position": 3000, "father": "0|1", "mother": "0|1", "child": "1/1"}
+  ]
+}
